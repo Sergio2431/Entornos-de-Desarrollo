@@ -1,5 +1,12 @@
 {
-  "require": {
-      "monolog/monolog":">=1.23"
+  "name":"Sergio2431/blog",
+  "repositories":{
+    {
+      "type":"vcs",
+      "url":"https://github.com/Sergio2431/blog"
+    }
+  },
+  "require":{
+    "Sergio2431/blog":"dev-master"
   }
 }
